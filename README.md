@@ -1,4 +1,4 @@
-# firstgithubproject
-This is my first Git hub repository
+# portfolio
+This is my portfolio
 <br>
 Author - Harini M
